@@ -4,7 +4,7 @@ export const blogData = [
         title: 'Smart India Hackathon',
         // description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
         date: 'Dec 2023',
-        image: 'https://drive.google.com/file/d/1e09tTNqoeOMv3pufHBaSkJg5zdSTlO30/view?usp=drive_link',
+        image: './sih.jpg',
         url: 'https://drive.google.com/file/d/1e09tTNqoeOMv3pufHBaSkJg5zdSTlO30/view?usp=drive_link'
     },
     // {

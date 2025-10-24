@@ -1,5 +1,5 @@
 .singleBlog {
-    height: 420px;
+    height: 320px;
     width: 320px;
     display: flex;
     flex-direction: column;
@@ -9,7 +9,7 @@
 }
 
 .singleBlog--image {
-    height: 50%;
+    height: 80%;
     width: 100%;
     overflow: hidden;
     border-top-left-radius: 5px;
