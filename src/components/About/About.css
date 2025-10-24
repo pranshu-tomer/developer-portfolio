@@ -58,6 +58,12 @@
     font-family: var(--primaryFont);
 }
 
+.about-description > ul {
+    font-size: 1.2rem;
+    color: #e0d9d9;
+    font-family: var(--primaryFont);
+}
+
 .about-img {
     margin-top: 40px;
     pointer-events: none;
