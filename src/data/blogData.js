@@ -2,43 +2,73 @@ export const blogData = [
     {
         id: 1,
         title: 'Smart India Hackathon',
-        // description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
         date: 'Dec 2023',
         image: './sih.jpg',
         url: 'https://drive.google.com/file/d/1e09tTNqoeOMv3pufHBaSkJg5zdSTlO30/view?usp=drive_link'
     },
-    // {
-    //     id: 2,
-    //     title: 'CHECK WEATHER FROM TERMINAL USING WTTR.IN',
-    //     description: 'wttr.in is a console-oriented weather forecast service that supports various information representation methods like ANSI-sequences for console HTTP clients, HTML, or PNG.',
-    //     date: 'Aug 11, 2020',
-    //     image: 'https://1.bp.blogspot.com/-OW7jX57tea4/XvnGxuEOslI/AAAAAAAABW0/R8lVT1AXDSwnvE0EGA9Ra49-LDm1ACwDgCK4BGAsYHg/s1216/wttr1.png',
-    //     url: 'https://hackzism.blogspot.com/2020/06/check-weather-from-terminal-using-wttrin.html'
-    // },
-    // {
-    //     id: 3,
-    //     title: 'BEING ANONYMOUS: A BEGINNERS GUIDE',
-    //     description: 'Here are some basic ways to lay off the Radar',
-    //     date: 'Aug 14, 2020',
-    //     image: 'https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg',
-    //     url: 'https://hackzism.blogspot.com/2020/06/being-anonymous-beginners-guide.html'
-    // },
-    // {
-    //     id: 4,
-    //     title: 'CHECK INTERNET SPEED FROM THE COMMAND LINE',
-    //     description: 'Want to check your internet speed from the terminal? Here\'s the perfect way to the that.',
-    //     date: 'Sep 17, 2020',
-    //     image: 'https://1.bp.blogspot.com/-XTVMsZP3HaM/Xxpl394txlI/AAAAAAAABws/zovXWiuNGg4TzBwYYVFfJ1ixDb3JfVokgCNcBGAsYHQ/w400-h195/speedtest.png',
-    //     url: 'https://hackzism.blogspot.com/2020/07/check-internet-speed-from-command-line.html'
-    // },
-    // {
-    //     id: 5,
-    //     title: 'GET MICHAEL\'S OR TREVOR\'S VEHICLES FULLY UPGRADED IN GTA V FOR FREE',
-    //     description: 'In case you haven\'t heard of this game, GTA stands for \'Grand Theft Auto\'. It is an open-world game published by Rockstar Games.',
-    //     date: 'Oct 1, 2020',
-    //     image: 'https://1.bp.blogspot.com/-jhdtUBIRD_s/XxLFKQuRz9I/AAAAAAAABsM/mClfbfDFKvsUwA7Wyi25Lzu3DEmL2lxrACNcBGAsYHQ/s1919/gta.jpg',
-    //     url: 'https://hackzism.blogspot.com/2020/07/how-can-you-get-michaels-or-trevors.html'
-    // },
+    {
+        id: 2,
+        title: 'ReGen Hackathon (NIT Manipur)',
+        date: 'Mar 2025',
+        image: './BLUELOCK.jpg',
+        url: 'https://drive.google.com/file/d/1exeAqWJhb8tVX-Vk9LV8I0WJ2amoBiDY/view?usp=drive_link'
+    },
+    {
+        id: 3,
+        title: 'Competitive Programming (IIIT Manipur)',
+        date: 'April 2024',
+        image: './cpIIIT.jpg',
+        url: 'https://drive.google.com/file/d/11YocDjyUIX9HsonG7dgjV3Hm8H6uEFTS/view?usp=drive_link'
+    },
+    {
+        id: 4,
+        title: 'Trek-a-thon Guwahati',
+        date: 'Jan 2025',
+        image: './Trek-a-thon.jpg',
+        url: 'https://drive.google.com/file/d/1n4g9HbTd78BhYRJ29qOIkeBB9NFYECo_/view?usp=drive_link'
+    },
+    {
+        id: 5,
+        title: 'Hackathon (IIIT Manipur)',
+        date: 'April 2024',
+        image: './Hackathon.jpg',
+        url: 'https://drive.google.com/file/d/11JlFg0YDTOCkEtCJgIlkTbDKUz2erlFS/view?usp=drive_link'
+    },
+    {
+        id: 6,
+        title: 'Web Development, Apna College',
+        date: 'Jan 2024',
+        image: './apnaCollege.png',
+        url: 'https://drive.google.com/file/d/1GF62lr-pjhS-L1g1gHzc6yJFrkZxCbGK/view?usp=drive_link'
+    },
+    {
+        id: 7,
+        title: 'Artificial Intelligence, Rinex',
+        date: 'May 2023',
+        image: './ai.png',
+        url: 'https://drive.google.com/file/d/1kvTOlCJRO1tlThHiqwOuQEtqNmcXx_OW/view?usp=drive_link'
+    },
+    {
+        id: 8,
+        title: 'Flipkart Grid 2025',
+        date: 'July 2025',
+        image: './flipkart.png',
+        url: 'https://drive.google.com/file/d/1dEMPa42MAnnrvRAa1R_4z2OSTvlpABlX/view?usp=drive_link'
+    },
+    {
+        id: 9,
+        title: 'Physics Wallah Internship',
+        date: 'Dec 2024',
+        image: './physics.png',
+        url: 'https://drive.google.com/file/d/1noQpTI_cMi7-13n4nZ1NJ3MunGkhaddT/view?usp=drive_link'
+    },
+    {
+        id: 10,
+        title: 'Future Netwings Internship',
+        date: 'June 2023',
+        image: './future.png',
+        url: 'https://drive.google.com/file/d/1MsStou-BDYVLn9-Anzg0CJvfzwV8nz0i/view?usp=drive_link'
+    },
 ]
 
 
