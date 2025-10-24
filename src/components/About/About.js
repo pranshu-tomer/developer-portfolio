@@ -19,7 +19,13 @@ function About() {
             <div className="about-body">
                 <div className="about-description">
                     <h2 style={{color: theme.primary}}>{aboutData.title}</h2>
-                    <p style={{color:theme.tertiary80}}>{aboutData.description1}<br/>{aboutData.description2}<br/>{aboutData.description3}<br/>{aboutData.description4}<br/>{aboutData.description5}</p>
+                    <ul>
+                        <li style={{color:theme.tertiary80}}>{aboutData.description1}</li>
+                        <li style={{color:theme.tertiary80}}>{aboutData.description2}</li>
+                        <li style={{color:theme.tertiary80}}>{aboutData.description3}</li>
+                        <li style={{color:theme.tertiary80}}>{aboutData.description4}</li>
+                        <li style={{color:theme.tertiary80}}>{aboutData.description5}</li>
+                    </ul>
                 </div>
                 <div className="about-img">
                     <img 
