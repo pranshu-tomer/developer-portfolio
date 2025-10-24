@@ -3,7 +3,7 @@ import resume from '../assets/pdf/resume.pdf'
 export const headerData = {
     name: 'Pranshu Tomer',
     title: "Full Stack Developer | MERN & Java Backend",
-    desciption:"I turn ideas into working products through clean code, thoughtful design, and a practical approach to development.",
+    desciption:"The screen was blank, but that wasn’t the problem — it was the silence before creation. Every idea starts quiet, until the first line of code brings it to life.",
     image: './profile_photo.jpg',
     resumePdf: resume
 }

@@ -62,14 +62,14 @@
 
 @media (min-width: 992px) and (max-width: 1380px) {
     .singleBlog {
-        height: 430px;
+        height: 320px;
     }
 }
 
 
 @media screen and (max-width: 992px) {
     .singleBlog {
-        height: 450px;
+        height: 320px;
         background-color: rgb(171, 240, 240);
         margin: 2rem 0;
         display: flex;
@@ -81,21 +81,21 @@
 
 @media screen and (max-width: 800px) {
     .singleBlog {
-        height: 450px;
+        height: 320px;
         margin: 1rem auto;
     }
 }
 
 @media screen and (max-width: 700px) {
     .singleBlog {
-        height: 450px;
+        height: 320px;
         margin: 1rem auto;
     }
 }
 
 @media screen and (max-width: 600px) {
     .singleBlog {
-        height: 450px;
+        height: 320px;
         width: 300px;
         margin: 1rem 0;
     }
