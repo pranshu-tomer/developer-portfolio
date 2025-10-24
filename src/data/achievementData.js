@@ -4,14 +4,14 @@ export const achievementData = {
         {
             id : 1,
             title : 'Smart India Hackathon 2023, Finalist',
-            details : 'Our team was selected among the national finalists, showcasing innovation and problem-solving in healthcare tech.',
+            details : 'Our team was selected among the national finalists, showcasing innovation in healthcare tech.',
             date : 'Dec 2023',
-            field : 'Hackathon | AI & Web Development',
+            field : 'Hackathon',
             image : './sih2023.jpeg'
         },
         {
             id : 2,
-            title : 'Trek-a-thon, Hackathon-cum-Trekking Experience',
+            title : 'Trek-a-thon',
             details : 'Participated in a two-day hackathon organized by Frint.in — combining trekking, camping, and innovation.',
             date : 'Aug 2024',
             field : 'Hackathon',
@@ -20,17 +20,17 @@ export const achievementData = {
         {
             id : 3,
             title : 'ReGen Hackathon, 1st Place (NIT Manipur)',
-            details : 'Built an agricultural analytics platform using CNN, Machine Learning, and IoT — designed to improve crop insights and efficiency for farmers.',
+            details : 'Built an agricultural analytics platform using CNN, Machine Learning, and IoT.',
             date : 'May 2025',
-            field : 'Hackathon | Machine Learning & IoT',
+            field : 'Hackathon',
             image : './regen.jpeg'
         },
         {
             id : 4,
-            title : '1st in Competitive Programming, AHOUBA Tech Fest (IIIT Manipur)',
+            title : '1st in Competitive Programming',
             details : 'Secured 1st position in CP and 2nd in Hackathon at IIIT Manipur’s National Tech Fest AHOUBA 2024.',
             date : 'Mar 2024',
-            field : 'Programming | Hackathon',
+            field : 'Programming',
             image : './abouba.jpeg'
         }
     ]

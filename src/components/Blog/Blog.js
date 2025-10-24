@@ -26,7 +26,7 @@ function Blog() {
             color: theme.tertiary, 
             backgroundColor: theme.secondary70,
             width: '40px',
-            height: '40px',
+            height: '30px',
             padding: '0.5rem',
             fontSize: '1.05rem',
             borderRadius: '50%',
@@ -45,7 +45,7 @@ function Blog() {
             {blogData.length > 0 && (
                 <div className="blog" id="blog" style={{backgroundColor: theme.secondary}}>
                     <div className="blog--header">
-                        <h1 style={{color: theme.primary}}>Blog</h1>
+                        <h1 style={{color: theme.primary}}>Certificates</h1>
                     </div>
                     <div className="blog--body">
                         <div className="blog--bodyContainer">
@@ -53,7 +53,6 @@ function Blog() {
                                 <SingleBlog 
                                     theme={theme}
                                     title={blog.title}
-                                    desc={blog.description}
                                     date={blog.date}
                                     image={blog.image}
                                     url={blog.url}
