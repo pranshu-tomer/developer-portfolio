@@ -16,7 +16,7 @@ export const educationData = [
     {
         id: 3,
         institution: 'National Institute of Technology, Manipur',
-        course: 'Bachelor of Technology in Computer Science and Engineering',
+        course: 'Bachelor of Technology in CSE',
         startYear: '2022',
         endYear: 'Present'
     },
