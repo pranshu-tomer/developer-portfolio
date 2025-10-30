@@ -3,7 +3,7 @@
     'Javascript',
     'CSS',
     'React',
-    'Node JS',
+    'NodeJS',
     'Docker',
     'Bootstrap',
     'C',

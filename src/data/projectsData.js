@@ -31,21 +31,21 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Algorithm Visualizer',
-        projectDesc: 'A web-based tool that visualizes various algorithms and data structures in action.',
-        tags: ['React', 'JavaScript'],
-        code: 'https://github.com/pranshu-tomer/Algorithms',
-        demo: 'https://struct-view.netlify.app/',
-        image: three
-    },
-    {
-        id: 4,
         projectName: 'Resume Builder',
         projectDesc: "A React-based Resume Builder that allows users to create and customize their resumes with ease.",
         tags: ['React', 'Redux', 'Clerk.js'],
         code: 'https://github.com/pranshu-tomer/ResumeBuilder',
         demo: 'https://pranshu-tomer-sv-resume-builder.netlify.app/',
         image: four
+    },
+    {
+        id: 4,
+        projectName: 'Algorithm Visualizer',
+        projectDesc: 'A web-based tool that visualizes various algorithms and data structures in action.',
+        tags: ['React', 'JavaScript'],
+        code: 'https://github.com/pranshu-tomer/Algorithms',
+        demo: 'https://struct-view.netlify.app/',
+        image: three
     },
     {
         id: 5,
